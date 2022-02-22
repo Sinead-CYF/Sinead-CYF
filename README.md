@@ -7,8 +7,8 @@
 
 About me: 
 
-- 🔭 I’m working towards employment as a Junior [Javascript] Developer 
-- 🌱 I’m currently learning React, Node.js, SQL with CodeYourFuture 
+- 🔭 Working towards employment as a Junior [Javascript] Developer 
+- 🌱 Currently learning React, Node.js, SQL with CodeYourFuture 
 - ⚡ Fun facts: I love coffee & cats 
 - 📫 Reach me: https://www.linkedin.com/in/sinead-osb-dev/
 
