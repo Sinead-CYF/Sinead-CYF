@@ -1,16 +1,55 @@
-### Hi there 👋
 
-<!--
-**Sinead-CYF/Sinead-CYF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://waylonwalker.com/latest"><img width="250" align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"></a>
+</p>
 
-Here are some ideas to get you started:
+  ### Welcome 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey there,
+
+- 🔭 I’m working towards employment as a Junior [Javascript] Developer 
+- 🌱 I’m currently learning React, Node.js, SQL with CodeYourFuture 
+- ⚡ Fun facts: I love coffee & cats 
+- 📫 Reach me: https://www.linkedin.com/in/sinead-osb-dev/
+
+
+<br></br>
+
+ ---
+
+ **Languages and Tools:**
+
+<p align="center">
+<div align="center">
+ 
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> 
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code> 
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code> 
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+  </div>
+  </p>
+  
+  ---
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sinead-CYF" />
+</div>
+
+
+  
+  
+
+
+  
+  
+  
+
+    
+  
