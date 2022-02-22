@@ -1,6 +1,6 @@
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="400" align='right' src="https://i.ibb.co/ZfcJBmt/cat.jpg"></a>
+  <a href="https://waylonwalker.com/latest"><img width="375" align='right' src="https://i.ibb.co/ZfcJBmt/cat.jpg"></a>
 </p>
 
   ### Welcome 👋
