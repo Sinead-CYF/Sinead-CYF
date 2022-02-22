@@ -1,10 +1,10 @@
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="250" align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"></a>
+  <a href="https://waylonwalker.com/latest"><img width="400" align='right' src="https://i.ibb.co/ZfcJBmt/cat.jpg"></a>
 </p>
 
   ### Welcome 👋
-
+  
 About me: 
 
 - 🔭 Working towards employment as a Junior [Javascript] Developer 
