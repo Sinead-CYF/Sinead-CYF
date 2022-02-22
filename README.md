@@ -5,7 +5,7 @@
 
   ### Welcome 👋
 
-Hey there,
+About me: 
 
 - 🔭 I’m working towards employment as a Junior [Javascript] Developer 
 - 🌱 I’m currently learning React, Node.js, SQL with CodeYourFuture 
